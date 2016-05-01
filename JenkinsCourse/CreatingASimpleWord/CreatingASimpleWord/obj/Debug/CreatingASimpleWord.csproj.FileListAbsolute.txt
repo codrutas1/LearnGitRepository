@@ -1,0 +1,1 @@
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\CreatingASimpleWord\bin\Debug\CreatingASimpleWord.exe.config
