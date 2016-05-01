@@ -1,0 +1,10 @@
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\bin\Debug\TestCreatingASimpleWord.dll.config
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\bin\Debug\TestCreatingASimpleWord.dll
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\bin\Debug\TestCreatingASimpleWord.pdb
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\bin\Debug\CreatingASimpleWord.exe
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\bin\Debug\nunit.framework.dll
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\bin\Debug\CreatingASimpleWord.pdb
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\bin\Debug\nunit.framework.xml
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\obj\Debug\TestCreatingASimpleWord.csprojResolveAssemblyReference.cache
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\obj\Debug\TestCreatingASimpleWord.dll
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\TestCreatingASimpleWord\obj\Debug\TestCreatingASimpleWord.pdb

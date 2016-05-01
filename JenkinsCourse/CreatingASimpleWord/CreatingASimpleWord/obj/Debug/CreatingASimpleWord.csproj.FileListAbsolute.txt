@@ -1,1 +1,6 @@
 F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\CreatingASimpleWord\bin\Debug\CreatingASimpleWord.exe.config
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\CreatingASimpleWord\bin\Debug\CreatingASimpleWord.exe
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\CreatingASimpleWord\bin\Debug\CreatingASimpleWord.pdb
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\CreatingASimpleWord\obj\Debug\CreatingASimpleWord.csprojResolveAssemblyReference.cache
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\CreatingASimpleWord\obj\Debug\CreatingASimpleWord.exe
+F:\LearnGitRepository\JenkinsCourse\CreatingASimpleWord\CreatingASimpleWord\obj\Debug\CreatingASimpleWord.pdb
